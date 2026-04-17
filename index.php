@@ -2,6 +2,7 @@
 <html lang="en">
 
 <head>
+    https://www.histats.com/viewstats/?act=2&sid=5021242
     <meta charset="utf-8">
     <title>Poseify - Modeling Agency Website Template</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
